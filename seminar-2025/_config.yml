@@ -1,0 +1,38 @@
+title: "ILS Doctoral Seminar 2025"
+logo: '/assets/ils_doc_seminar.png'
+author: "Bastian Luettig"
+description: "Institute of Aircraft Systems"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: false        # show article excerpts on the home page
+show_social: true        # show site description and social links in the footer
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false       # show a sidebar instead of the usual header
+minimal: false             # use a dark header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Presenter Instructions", file: "awards.md"}
+  - {title: "Schedule", file: "schedule.md"}
+  - {title: "Abstracts", file: "abstracts.md"}
+  
+  
+
+  
+
+external:                # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:mail@ils.uni-stuttgart.de"}
+  - {title: ILS website, icon: rss, url: "https://www.ils.uni-stuttgart.de/en/"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
