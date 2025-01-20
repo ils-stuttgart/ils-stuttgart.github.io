@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Author Instructions
-permalink: /instructions/
+permalink: /seminar-2025/instructions/
 ---
 
 Dear Presenter,

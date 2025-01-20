@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ILS Doctoral Seminar 2025
+title: ILS Home
 email: mail@ils.uni-stuttgart.de
 description: >- # this means to ignore newlines until "baseurl:"
   ILS Doctoral Seminar 2025
-baseurl: "/seminar-2025" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ils-stuttgart.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ils-stuttgart
 

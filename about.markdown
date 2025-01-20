@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# ILS Doctoral Seminar
-
 **Institute of Aircraft Systems**<br />
 Pfaffenwaldring 27<br />
 70569 Stuttgart, Germany

@@ -3,9 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Doctoral Seminar 2025
+permalink: /seminar-2025/
 ---
 
-![image](assets/logo_doctoralseminar_2025.png)
+![image](../assets/logo_doctoralseminar_2025.png)
 
 It is a special pleasure for us to welcome every one of you to this doctoral seminar at the Institute of Aircraft Systems (ILS). 
 The doctoral seminar aims to exchange research results and findings in the field of aeronautical systems and to network. 
