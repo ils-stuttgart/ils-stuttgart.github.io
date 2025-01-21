@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ILS Home
+title: ILS
 email: mail@ils.uni-stuttgart.de
 description: >- # this means to ignore newlines until "baseurl:"
   ILS Doctoral Seminar 2025
@@ -28,6 +28,10 @@ github_username:  ils-stuttgart
 
 # Build settings
 theme: minima
+minima:
+  custom_css:
+    - /assets/css/ils.css
+
 plugins:
   - jekyll-feed
 

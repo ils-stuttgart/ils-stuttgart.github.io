@@ -1,0 +1,43 @@
+body {
+  background-image: url("thumb-1920-1334374.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* set background opacity 0.8 */
+}
+
+.post {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 2em;
+  border-radius: 0.25em;
+}
+
+.site-header {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.site-footer {
+  background-color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.footer-col-wrapper {
+  color: #1f1f1f;
+}
+
+.alert {
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: .25em;
+}
+
+.alert-warning {
+  background-color: rgba(255, 178, 178, 0.9);
+  color: #1f1f1f;
+  border: 1px solid #cd2d2d;
+}
+
+h2 {
+  font-size: 24px !important;
+}
+h3 {
+  font-size: 20px !important;
+}
