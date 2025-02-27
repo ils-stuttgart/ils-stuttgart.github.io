@@ -9,7 +9,7 @@ permalink: /seminar-2025/
 
 <div class="alert alert-warning">
 <strong>Upcoming important dates</strong><br />
-Abstract deadline: 2025-02-20
+Presentation deadline: 2025-03-24 2pm
 </div>
 
 ![image](../assets/logo_doctoralseminar_2025.png)
