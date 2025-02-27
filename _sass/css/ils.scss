@@ -41,3 +41,28 @@ h2 {
 h3 {
   font-size: 20px !important;
 }
+
+.author {
+  font-weight: bold;
+  color: #333;
+  text-align: end;
+}
+
+.post-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+.abstract-list > ul {
+  list-style-type: none; /* Remove the default bullets */
+  padding-left: 0; /* Remove the left padding */
+  margin-left: 0 !important;
+}
+
+.abstract-list > ul li {
+  margin-bottom: 10px; /* Add space between list items */
+  padding-left: 20px; /* Add some space before each list item (optional) */
+  position: relative; /* Positioning for custom icon */
+}
+
+

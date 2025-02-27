@@ -14,9 +14,9 @@ Thank you for your participation in our upcoming doctoral seminar. Your contribu
 Your abstract should be a concise summary of your research work, including the main objectives, methodology, results, and conclusions of 1 page.
 We will review your abstract and provide feedback to help you prepare for your presentation.
 
-<div class="alert alert-warning">
+<div class="alert alert-success">
 <strong>Deadline (abstract)</strong><br />
-2025-02-20 2pm.
+2025-02-20 2pm. (passed)
 </div>
 
 

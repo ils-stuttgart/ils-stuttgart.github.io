@@ -1,0 +1,16 @@
+---
+title: Uncertainty Probing and Compensation in Safety-Critical Systems.
+author: Yousif Elsheikh
+layout: page
+---
+
+
+Modern safety-critical systems rely on layered architectures and redundant components to ensure operational integrity. These systems are designed to tolerate uncertainties, yet they heavily depend on algorithmic decision making. Here, the problem lies in nondeterminism (in the case of artificial neural networks, ANNs) and the nature of robust control and conventional compensation techniques, that still only partly mitigates the underlying uncertainties (such as unmodelled uncertainties in cyber-physical systems).
+
+These challenges lie in the intersection of physical systems and computational layers, where algorithmic behaviours defy traditional guarantees, i.e. in the case of variable inference time, or bugs that only appear in the full-blown physical system, due to various reasons including not accounted for uncertainty or non-determinism.
+
+The uncertainties are usually a combination of three types, structural uncertainties, such as those introduced by unmodelled elements, parametric uncertainties, under which disturbances fall, a typical case is temperature affecting hardware and causing originally undefined behaviours. Cosmic rays are also known to cause bit flips that could significantly affect the algorithm’s output. Algorithms that are fault tolerant should be standalone-robust to such changes (this falls under monitoring, where condition-dependent normal values deviate from their condition dependent default, i.e. average velocity at specific mission modes). The third type is algorithmic uncertainties (e.g. non-deterministic ANN execution or adversarial vulnerabilities). These uncertainties interact in an unpredictable manner, creating “blind spots” in system validation (a typical case is traditional testing techniques such MC/DC show 100% coverage for ANNs, which is even a standalone algorithmic uncertainty).
+
+To eliminate uncertainties, this work proposes a two paths solution, the first is probing uncertainties as a robustness assessment mechanism and the second is compensating uncertainties in real-time. The former, by reformulating robustness assessment as an exploration-exploitation problem. For example, using stateless reinforcement learning (bandits formulation) to guide adversarial input generation to systematically expose worst-case ANNs latency scenarios. And the latter, by using dynamic compensation, leveraging tools like reinforcement learning (RL) to adapt control or compensate uncertainty in real time, ensuring stability despite fluctuating computational loads or environmental conditions that the nominal system does not account for.
+
+Early results demonstrate continuum bandits’ efficiently uncover input-dependent latency bottlenecks in trivial synthetic functions. Extending this to ANNs and then future aircraft perception systems will reveal how algorithmic uncertainties in such cases bypass redundancy (for instance, delayed object detection cascading into flawed control responses). The broader implication is to introduce a paradigm shift: moving from passive redundancy/fault-tolerance to active uncertainty-aware architectures, where ML not only identifies vulnerabilities but also adapts systems dynamically.
