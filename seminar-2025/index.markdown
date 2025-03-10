@@ -28,3 +28,31 @@ We look forward to your participation and to the insightful discussions that wil
 You will need to prepare a one-page abstract and presentation of your research work. 
 Please refer to the [Author Instructions](/seminar-2025/instructions/) for more information.
 
+# Schedule
+
+## Day 1, Tuesday, 2025-03-25
+
+| Time       | Event                                       |
+|------------|---------------------------------------------|
+| 7.00       | 	Departure from ILS                         |
+| until 9.00 | Arrival                                     |
+| 9.00	      | Brezel breakfast with opening words: Zamira |
+| 9.30	      | Start of the Seminar                        |
+| 12.30      | 	Lunch      break                           |
+| 13.15	     | Seminar                                     |
+| 17.45      | 	Free time                                  |
+| 18.45	     | Dinner                                      |
+| 20.00	     | Activities                                  | 
+
+
+## Day 2, Wednesday, 2025-03-26
+
+| Time       | Event                 |
+|------------|-----------------------|
+| 8.00       | 	Breakfast            |
+| until 9.15 | 	Check out            |
+| 9.15       | 	Seminar              |
+| 12.15      | 	Lunch     break      |
+| 13.05      | 	Seminar              |
+| 16.15      | 	Awards               |
+| 17.00      | 	Closing words: Björn |
