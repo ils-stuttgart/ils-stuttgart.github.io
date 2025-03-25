@@ -13,8 +13,8 @@ permalink: /seminar-2025/schedule/
 | Start | End   | Event                                                                                                                    | Author     |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|------------|
 | 9.00  | 9.30  | Brezel Breakfast                                                                                                         |
-| 9.30  | 10.10 | SNARKs for Control System Safety and Security                                                                            | Johannes   |
-| 10.10 | 10.50 | From Arduino to Redundant Avionics Platforms                                                                             | Bastian    |
+| 09.30 | 10.10 | From Arduino to Redundant Avionics Platforms                                                                             | Bastian    |
+| 10.10 | 10.50 | SNARKs for Control System Safety and Security                                                                            | Johannes   |
 | 10.50 | 11.05 | Coffee Break                                                                                                             |            |
 | 11.05 | 11.45 | Self-Adaptive Virtualization for Avionics Systems                                                                        | Samuel     |
 | 11.45 | 12.25 | Situation-aware Safety-Critical Orchestration of adaptive avionic platforms                                              | Raphael    |
