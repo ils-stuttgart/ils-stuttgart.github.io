@@ -12,7 +12,7 @@ permalink: /seminar-2025/schedule/
 
 | Start | End   | Event                                                                                                                    | Author     |
 |-------|-------|--------------------------------------------------------------------------------------------------------------------------|------------|
-| 9.00  | 9.30  | Brezel Breakfast                                                                                                         |
+| 9.00  | 9.30  | Brezel Breakfast                                                                                                         |            |
 | 09.30 | 10.10 | From Arduino to Redundant Avionics Platforms                                                                             | Bastian    |
 | 10.10 | 10.50 | SNARKs for Control System Safety and Security                                                                            | Johannes   |
 | 10.50 | 11.05 | Coffee Break                                                                                                             |            |
@@ -36,8 +36,8 @@ permalink: /seminar-2025/schedule/
 
 | Start | End   | Event                                                                                             | Author    |
 |-------|-------|---------------------------------------------------------------------------------------------------|-----------|
-| 8.00  | 9.00  |                                                                                                   |
-| 8.00  | 9.15  | Check out                                                                                         |
+| 8.00  | 9.00  | Breakfast                                                                                         |           |
+| 8.00  | 9.15  | Check out                                                                                         |           |
 | 9.15  | 9.55  | Uncertainty Probing and Compensation in Safety-Critical Systems                                   | Yousif    |
 | 9.55  | 10.35 | Exploring uncertainty quantification in machine learning models                                   | Henry     |
 | 10.35 | 10.50 | Coffee Break                                                                                      |           |
@@ -51,4 +51,4 @@ permalink: /seminar-2025/schedule/
 | 15.20 | 16.00 | Quantification of Cybersecurity Risks for Conduction of Automated Security Risk Assessment        | Mario     |
 | 16.00 | 16.15 | Coffee Break                                                                                      |           |
 | 16.15 | 17.00 | Awards                                                                                            |           |
-| 17.00 | 17.15 | Closing words                               
+| 17.00 | 17.15 | Closing words                               |             |
