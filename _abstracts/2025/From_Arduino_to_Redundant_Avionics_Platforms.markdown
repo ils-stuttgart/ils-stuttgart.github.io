@@ -2,6 +2,7 @@
 title: From Arduino Prototyping to Redundant Avionics Platforms
 author: Bastian Lüttig
 layout: page
+year: 2025
 ---
 
 

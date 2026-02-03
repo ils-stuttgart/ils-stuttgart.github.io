@@ -2,6 +2,7 @@
 title: "SNARKs for Control System Safety and Security"
 layout: page
 author: "Johannes Reinhart"
+year: 2025
 ---
 Control Systems are employed in many areas for operating and automating critical systems.
 Prominent examples are flight control in aircraft, electrical power grid control, power generation

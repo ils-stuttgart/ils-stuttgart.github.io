@@ -2,6 +2,7 @@
 title: "Approach for a holistic and quantified Risk Assessment of Actuator Failures in X-by-Wire Vehicles"
 layout: page
 author: "Oliver Markus"
+year: 2025
 ---
 
 X-by-wire systems, namely brake-by-wire (BbW) and steer-by-wire (SbW), are relatively new concepts

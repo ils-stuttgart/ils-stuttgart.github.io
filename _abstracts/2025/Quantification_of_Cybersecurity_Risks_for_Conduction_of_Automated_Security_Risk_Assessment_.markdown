@@ -2,6 +2,7 @@
 title: "Quantification of Cybersecurity Risks for Conduction of Automated Security Risk Assessment"
 layout: page
 author: "Mario Werthwein"
+year: 2025
 ---
 Risk assessment for aircraft gained relevance since the introduction of CS25 §1319. This paragraph explains the requirement of assessing and mitigating cyber-risks as necessary. The assessment is tied to adverse effects on the safety of the aircraft. Usually, most of the risk assessment can be shortened for aircraft due to the aircraft network domain principle. Due to goals for future air traffic management (ATM) and aircraft such as more interconnected and open networking or the usage of more commercial-of-the-shelf (COTS) components that clear separation of safety-critical and non-safety-critical of aircraft network domains is weakening. To minimize the risk assessment effort and enable support of continuous risk assessment machine-readable security metrics must be specified.
 

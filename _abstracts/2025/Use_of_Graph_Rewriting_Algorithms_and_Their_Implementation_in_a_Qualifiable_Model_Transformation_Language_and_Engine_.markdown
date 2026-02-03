@@ -2,6 +2,7 @@
 title: "Use of Graph Rewriting Algorithms and Their Implementation in a Qualifiable Model Transformation Language and Engine"
 layout: page
 author: "Constantin Frey"
+year: 2025
 ---
 Model transformations are used in the development process for Integrated Modular Avionics
 (IMA) to make the process more efficient by automation. A qualifiable model transformation

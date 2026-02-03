@@ -7,7 +7,8 @@ title: Abstracts
 
 <div class="abstract-list">
 <ul>
-  {% for abstract in site.abstracts | sort: 'title' %}
+  {% assign abstracts_2025 = site.abstracts | where: "year", 2025 | sort: "title" %}
+  {% for abstract in abstracts_2025 %}
     <li>
       <a href="{{ abstract.url }}">{{ abstract.title | default: abstract.name }}</a>
       {% if abstract.author %} <em>by {{ abstract.author }}</em> {% endif %}

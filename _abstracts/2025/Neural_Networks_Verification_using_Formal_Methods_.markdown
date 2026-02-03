@@ -2,6 +2,7 @@
 title: "Neural Networks Verification using Formal Methods"
 layout: page
 author: "Yassine Akhiat"
+year: 2025
 ---
 Over the past few years, Neural Networks (NNs) have been increasingly applied to real-world
 applications, achieving successful performance. NNs have been applied to domains such as

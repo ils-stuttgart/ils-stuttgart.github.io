@@ -2,6 +2,7 @@
 title: "Trusting AI Pilots? — Presenting the Actors of our AI Flight School"
 layout: page
 author: "Christoph Regli"
+year: 2025
 ---
 The integration of artificial intelligence into aviation presents not just a technical challenge but a
 fundamental question of trust. Can AI pilots ever be as reliable — and as trusted — as their human

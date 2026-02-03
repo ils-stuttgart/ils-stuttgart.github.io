@@ -2,6 +2,7 @@
 title: "Towards a Comprehensive Model of Visualization Smells for Model Visualization Verification"
 layout: page
 author: "Andreas Waldvogel"
+year: 2025
 ---
 
 Modern avionics systems increasingly rely on domain-specific modeling (DSM) to manage growing complexity. Under the strict DO-330 standard for tool qualification, each development tool in the toolchain must be fully qualified for automatic use - this includes block-diagram visualizations of DSM models. Verifying by hand that rendered diagrams accurately reflect their underlying models is both labor-intensive and error-prone. To address this, we propose Veriviz, an automated solution that compares rendered block diagrams against a model database to ensure correct visualization.

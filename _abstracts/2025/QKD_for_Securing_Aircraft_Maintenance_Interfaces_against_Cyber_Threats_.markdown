@@ -2,6 +2,7 @@
 title: "QKD for Securing Aircraft Maintenance Interfaces against Cyber Threats"
 layout: page
 author: "Edwin Isidory"
+year: 2025
 ---
 Aircraft maintenance interfaces are vital for diagnosing, updating, and maintaining various
 systems, ensuring the safety and efficiency of aircraft operations. These interfaces, which

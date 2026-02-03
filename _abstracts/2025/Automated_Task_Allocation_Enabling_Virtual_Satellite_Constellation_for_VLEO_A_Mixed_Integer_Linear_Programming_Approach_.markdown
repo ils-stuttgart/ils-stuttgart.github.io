@@ -2,6 +2,7 @@
 title: "Automated Task Allocation Enabling Virtual Satellite Constellation for VLEO: A Mixed Integer Linear Programming Approach"
 layout: page
 author: "Ayca Kula"
+year: 2025
 ---
 This paper proposes an organization method for distributed self-adaptive avionics
 architecture for VLEO (Very Low Earth Orbit) virtual satellite constellations, aiming to

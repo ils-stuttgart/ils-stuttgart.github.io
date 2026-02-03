@@ -2,6 +2,7 @@
 title: "Methods Transfer from Aviation to Automotive"
 layout: page
 author: "Yusuf Akkus"
+year: 2025
 ---
 The automotive industry is experiencing a huge transformation. It is evolving into a sector increasingly
 dominated by software. Trends such as connectivity and autonomous driving are shifting the industry's

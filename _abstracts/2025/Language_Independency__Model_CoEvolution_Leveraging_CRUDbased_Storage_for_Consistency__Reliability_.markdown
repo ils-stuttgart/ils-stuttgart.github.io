@@ -2,6 +2,7 @@
 title: "Language Independency & Model Co-Evolution: Leveraging CRUD-based Storage for Consistency & Reliability"
 layout: page
 author: "Vanessa Tietz"
+year: 2025
 ---
 
 Avionics systems are becoming more and more complex due to the demand of additional functionality

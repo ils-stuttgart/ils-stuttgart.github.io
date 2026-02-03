@@ -2,6 +2,7 @@
 title: "Situation-aware Safety-Critical Orchestration of adaptive avionic platforms"
 layout: page
 author: "Raphael Rohrmüller"
+year: 2025
 ---
 Safety-critical applications in the aerospace domain require a high degree of reliability, security, and
 fault tolerance to ensure system integrity and prevent catastrophic failures. Traditionally, Integrated

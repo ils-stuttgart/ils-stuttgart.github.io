@@ -2,6 +2,7 @@
 title: "Self-Adaptive Virtualization for Avionics Systems"
 layout: page
 author: "Samuel Queiroz"
+year: 2025
 ---
 Virtualization techniques brings advantages for avionics systems. With them it is possible to comply with a wide range of requirements: different applications have different system requirements, making it infeasible using only one operating system to run all the necessary applications in the context of avionics systems. With the increasing complexity of avionics systems, with a high number of sensors, actuators and other devices, the maintenance, development and deployment of such systems in the avionics context became a challenge. Some research works are moving towards the direction of self-organizing (adaptive) avionics platforms, were all the devices in the airplane are automatically identified, mapped and configured. This way, the effort for development and deploying are drastically reduced. 
 

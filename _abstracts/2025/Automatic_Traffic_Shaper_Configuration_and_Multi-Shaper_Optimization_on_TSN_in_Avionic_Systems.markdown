@@ -2,6 +2,7 @@
 title: Automatic Traffic Shaper Configuration and Multi-Shaper
 author: Mariann Homolya
 layout: page
+year: 2025
 ---
 
 

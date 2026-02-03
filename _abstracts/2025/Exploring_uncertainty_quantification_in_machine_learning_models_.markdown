@@ -2,6 +2,7 @@
 title: "Exploring uncertainty quantification in machine learning models"
 layout: page
 author: "Henry Späth"
+year: 2025
 ---
 Through the increased data and computational power, the influence of machine
 learning application rises and the call to bring machine learning in the aviation

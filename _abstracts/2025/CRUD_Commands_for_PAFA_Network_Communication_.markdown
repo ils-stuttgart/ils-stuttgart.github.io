@@ -2,6 +2,7 @@
 title: "CRUD Commands for PAFA Network Communication"
 layout: page
 author: "Jens-Peter Kühn"
+year: 2025
 ---
 Currently available avionics systems for modern aircraft rely on a large number of configuration
 parameters to define system functionalities. These configuration parameters are defined during
