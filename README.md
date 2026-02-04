@@ -118,7 +118,7 @@ Typical steps:
 3. Link the new seminar year
 
     * Add a link on the landing page (`index.markdown`)
-    * Or add navigation items / overview pages
+    * change _config.yml to show the new seminar year
 
 > Keeping older seminar years online is encouraged (stable URLs + archive).
 
