@@ -11,7 +11,6 @@ This page is a collection of resources and information for the Institute of Airc
 
 [ILS Doctoral Seminar 2026](/seminar-2026/)
 
-Find the previous Doctoral Seminar here:
-<a href="https://ils-stuttgart.github.io/" target="_blank" rel="noopener">
-  ILS Doctoral Seminar 2025
-</a>
+Find the previous Doctoral Seminars here:
+
+* [ILS Doctoral Seminar 2025](/seminar-2025/)
