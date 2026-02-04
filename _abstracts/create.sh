@@ -18,7 +18,7 @@ echo "Enter the author(s) of the abstract:"
 read -r author
 
 # Create the new file with the front matter
-echo -e "---\ntitle: \"$title\"\nlayout: page\nauthor: \"$author\"\n---" > "$filename"
+echo -e "---\ntitle: \"$title\"\nlayout: page\nauthor: \"$author\"\nyear: 2026---" > "$filename"
 
 # Provide feedback
 echo "Created file: $filename"
