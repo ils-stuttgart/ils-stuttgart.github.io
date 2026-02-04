@@ -2,7 +2,7 @@
 # Site settings
 # -------------------------------------------------
 
-title: ""
+title: "ILS"
 email: mail@ils.uni-stuttgart.de
 
 description: >-
@@ -31,6 +31,14 @@ minima:
 
 plugins:
   - jekyll-feed
+
+header_pages:
+  - index.markdown
+  - seminar-2026/index.markdown
+  - seminar-2026/abstracts/index.markdown
+  - seminar-2026/schedule.markdown
+  - seminar-2026/instructions.markdown
+  - about.markdown
 
 # -------------------------------------------------
 # Collections
