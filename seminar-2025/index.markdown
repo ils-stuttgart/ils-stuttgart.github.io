@@ -27,5 +27,11 @@ The seminar will be held in English.
 We look forward to your participation and to the insightful discussions that will undoubtedly follow. 
 You will need to prepare a one-page abstract and presentation of your research work. 
 Please refer to the [Author Instructions](/seminar-2025/instructions/) for more information.
-                                                      |           |
+
+
+[Instructions](/seminar-2025/instructions)
+
+[Schedule](/seminar-2025/schedule)
+
+[Abstracts](/seminar-2025/abstracts/index)
 

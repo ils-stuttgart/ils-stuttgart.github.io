@@ -9,4 +9,8 @@ Welcome to the ILS Github Page!
 
 This page is a collection of resources and information for the Institute of Aircraft Systems (ILS) at the University of Stuttgart.
 
-[ILS Doctoral Seminar 2025](/seminar-2025/)
+[ILS Doctoral Seminar 2026](/seminar-2026/)
+
+Find the previous Doctoral Seminars here:
+
+* [ILS Doctoral Seminar 2025](/seminar-2025/)

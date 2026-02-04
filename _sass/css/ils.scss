@@ -12,11 +12,12 @@ body {
 }
 
 .site-header {
-  background-color: rgba(255, 255, 255, 0.8) !important;
+  background-color: rgba(251, 251, 251, 0.8) !important;
 }
 
 .site-footer {
   background-color: rgba(255, 255, 255, 0.7) !important;
+  padding: 0.5em;
 }
 
 .footer-col-wrapper {
@@ -65,4 +66,32 @@ h3 {
   position: relative; /* Positioning for custom icon */
 }
 
+.footer-links {
+  display: flex;
+  gap: 1.5em;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-link {
+  color: #1f1f1f;
+  text-decoration: none;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
+
+.footer-link.linkedin {
+  color: #0a66c2; /* LinkedIn blue */
+}
+
+.footer-link svg {
+  vertical-align: middle;
+}
 
