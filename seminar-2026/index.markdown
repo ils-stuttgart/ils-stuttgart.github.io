@@ -9,7 +9,7 @@ permalink: /seminar-2026/
 
 <div class="alert alert-warning">
 <strong>Upcoming important dates</strong><br />
-Abstract deadline: 2026-03-24 2 PM
+Abstract deadline: 2026-02-21 2:00 PM.
 </div>
 
 ![image](../assets/logo_doctoralseminar_2026.png)
