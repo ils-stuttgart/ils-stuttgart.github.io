@@ -11,7 +11,7 @@ title: Abstracts
 <div class="alert alert-warning"> The abstracts will be published after the submission deadline </div>
 
 
-<!--
+
 <div class="abstract-list">
 <ul>
   {% assign abstracts_2026 = site.abstracts | where: "year", 2026 | sort: "title" %}
@@ -23,4 +23,3 @@ title: Abstracts
   {% endfor %}
 </ul>
 </div>
--->
