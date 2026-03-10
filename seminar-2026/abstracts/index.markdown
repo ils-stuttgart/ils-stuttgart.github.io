@@ -7,9 +7,9 @@ title: Abstracts
 
 
 
-
+<!--
 <div class="alert alert-warning"> The abstracts will be published after the submission deadline </div>
-
+-->
 
 
 <div class="abstract-list">
