@@ -12,6 +12,7 @@ an architecture, the model becomes more understandable and enables consistent
 handling of constraints originating from various domains. This structured representation
 supports the systematic evaluation of large satellite constellations,
 particularly under VLEO-specific constraints.
+
 In the doctoral seminar, the presentation will demonstrate a model-driven
 approach that fundamentally simplifies the complex process of satellite constellation
 task planning. By inputting the stakeholder’s mission requirements
@@ -26,6 +27,7 @@ solving the optimal constellation design problem. Instead, it supports users in
 selecting and configuring satellites that are already operating in orbit. The core
 of the modeling framework will be shown as a structured meta-model defined
 in the Eclipse Modeling Framework (EMF).
+
 Furthermore, the study will include a discussion of VLEO specific constraints
 including atmospheric drag, propulsion system related constraints etc. The
 framework will be extended to large-scale constellation scenarios, where more

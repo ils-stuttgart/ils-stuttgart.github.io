@@ -38,7 +38,7 @@ by **2026-03-22 2:00 PM**.
 
 <div class="alert alert-warning">
 <strong>Deadline (presentation)</strong><br />
-2026-03-22 2:00 PM.
+2026-03-20 2:00 PM.
 </div>
 
 

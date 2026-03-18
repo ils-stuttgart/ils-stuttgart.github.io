@@ -5,8 +5,7 @@ author: "Mariann Homolya"
 year: 2026
 ---
 
-Modern avionics platforms are becoming increasingly complex due to embedded and modular systems, while
-there is a demand for improved energy efficiency, reduced engineering workload, and shorter development cycles.
+Modern avionics platforms are becoming increasingly complex due to embedded and modular systems, while there is a demand for improved energy efficiency, reduced engineering workload, and shorter development cycles.
 These demands require deterministic communication with guaranteed latency, bandwidth and traffic isolation
 requirements to ensure predictable system behavior. Time-Sensitive Networking (TSN) provides mechanisms to
 support these requirements, enable scheduled reconfiguration
@@ -20,6 +19,7 @@ dynamic reconfiguration, the transient state between the running configuration C
 can lead to the temporary violation of service and communication guarantees, such as latency bounds and traffic
 isolation. For example, when alternative routes, or redundant resources are available, it should be possible to
 mitigate connection failures and maintain system functionality.
+
 This talk addresses the problem of generating transitional behavior-preserving configuration sequences between
 the initial TSN configuration C0 and target configuration CN, initially focusing on a single TSN switch. The
 objective is to ensure that the intermediate state remain safe, by creating a sequence of transient configurations.
@@ -34,6 +34,7 @@ contains a sequence of transitional configurations that presence the transmissio
 transient behavior and loss of service.
 The proposed method is evaluated on a representative switch configuration, with the focus on the number of
 transient steps, temporary latency increase, loss of packets, and the overall duration of the reconfiguration.
+
 In summary this paper aims for the following contributions:
 • formal safe-state based model for TSN reconfiguration,
 • a basic definition of transient safety properties,

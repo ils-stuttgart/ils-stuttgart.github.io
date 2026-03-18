@@ -22,6 +22,7 @@ inputs and are based on completeness and soundness. Because these methods are ri
 rely on exact solving, they scale poorly with input dimensions and network architecture. Both methods
 typically yield local statements around nominal inputs and allow for only loose robustness claims that
 are often based on sparse input samples.
+
 This work aims to tackle this problem on two fronts, first through getting rid of the sample-based testing
 by obtaining a robust reduced-dimension representation of the input space and clustering the input
 in this lower space. Second, by representing the reduced-dimension, semantically-sound representation
