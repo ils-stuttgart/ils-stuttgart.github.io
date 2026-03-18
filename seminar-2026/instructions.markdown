@@ -34,7 +34,7 @@ Your presentation must not exceed 20 minutes. We recommend structuring your pres
 To facilitate a seamless setup and to ensure that all technical requirements are met, we kindly ask that you send your final presentation to vanessa.tietz@ils.uni-stuttgart.de or place it on the network share in:
 > X:\08 Dissertationen\10 Allgemeines\Doktorandenseminar\2026\Presentations 
  
-by **2026-03-22 2:00 PM**.
+by **2026-03-20 2:00 PM**.
 
 <div class="alert alert-warning">
 <strong>Deadline (presentation)</strong><br />
