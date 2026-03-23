@@ -26,7 +26,7 @@ permalink: /seminar-2026/schedule/
 | 16.40 | 17.10 | Keynote Vanessa                                                                                                                        |                 |
 | 17.10 | 18.00 | Free time / backup time                                                                                                                |                 |
 | 18.00 | 19.00 | Dinner                                                                                                                                 |                 |
-| 20.00 | 22.00 | Social Activities                                                                                                                      |                 |
+| 19.00 | 21.00 | Social Activities                                                                                                                      |                 |
 
 ## Day 2, Tuesday, 2026-03-24
 
@@ -47,7 +47,8 @@ permalink: /seminar-2026/schedule/
 | 15.50 | 16.30 | Integration of a Qualifiable Model Transformation Into a Model-Based Process for Integrated Modular Avionics Configuration Development | Constantin Frey    |
 | 16.30 | 17.00 | Keynote Aisha                                                                                                                          |                    |
 | 17.00 | 18.00 | Free time                                                                                                                              |                    |
-| 18.00 | 19.00 | Dinner                                                                                                                                 |        
+| 18.00 | 19.00 | Dinner   
+| 19.00 | 21.00 | Social Activities                                                                                                                      |                 |                                                                                                                              |        
 
 ## Day 3, Wednesday, 2026-03-25
 
